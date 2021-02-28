@@ -1,5 +1,9 @@
-[![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC4.0-blue.svg)](LICENSE.md)
-![Python 3.7](https://img.shields.io/badge/python-3.7-green.svg)
+# Arsh's ReadME
+## Things to do:-
+- Create a dataset creation python script that takes parent folder as input and outputs a text file containing names in the format:- 'classname/filename.jpg'.
+- Create a consolidated bash script for training command.
+- Create a consolidated bash script that translates all images in the folder containing the test images.
+
 
 # FUNIT: Few-Shot Unsupervised Image-to-Image Translation
 ![animal swap gif](docs/images/animal.gif)
