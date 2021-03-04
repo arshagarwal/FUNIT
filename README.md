@@ -1,4 +1,16 @@
 # Arsh's ReadME
+## Training steps:-
+- Modify config/train.yaml to change data/training options.
+- Run train.sh by passing the following arguments:-
+```
+--img_dir "path to dataset parent"
+
+```
+- Run the following command for testing:-
+```
+python test.py --img_dir --test_dir --g_ckpt
+```
+
 ## Things to do:-
 - Create a dataset creation python script that takes parent folder as input and outputs a text file containing names in the format:- 'classname/filename.jpg'.
 - Create a consolidated bash script for training command.
